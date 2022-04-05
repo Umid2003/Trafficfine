@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp7190858.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.contain {
+    margin: 1.5rem 0;
+}
+
+h1 {
+    color: rgba(227, 191, 191, 0.877);
+    background-color: rgba(31, 16, 16, 0.858);
+    padding: 0.5rem;
+    letter-spacing: 0.3rem;
+    font-size: 3rem;
+}
